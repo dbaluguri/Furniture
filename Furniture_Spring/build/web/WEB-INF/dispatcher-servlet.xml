@@ -93,8 +93,8 @@
     <property name="caller" value="dinningroom_inventory"/>
 </bean>
 
-<bean name="/livingroom_inventory.htm" class="com.furniture.web.controller.GenericController">
-    <property name="caller" value="livingroom_inventory"/>
+<bean name="/livingRoom_inventory.htm" class="com.furniture.web.controller.GenericController">
+    <property name="caller" value="livingRoom_inventory"/>
 </bean>
 
 <bean name="/homeoffice_inventory.htm" class="com.furniture.web.controller.GenericController">
